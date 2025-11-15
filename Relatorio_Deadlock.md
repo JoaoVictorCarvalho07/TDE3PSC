@@ -1,4 +1,10 @@
+## PUCPR – Performance em Sistemas Ciberfísicos
+**Professor:** Andrey Cabral Meira  
+**Integrantes:** joao Victor Carvalho de Freitas, Matheus Henrique Heinzen , Vinicius Lima Teider, Edmund Soares De Sousa  
+**Ano:** 2025
 
+
+---
 ## Deadlock: Demonstração, Análise e Correção com Hierarquia de Recursos
 
 ##  Dinâmica do problema
