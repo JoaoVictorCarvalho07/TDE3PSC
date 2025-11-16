@@ -120,8 +120,15 @@ Esperado: 2.000.000
 Obtido: 2.000.000 (sempre correto)
 Tempo: maior devido à serialização
 ```
+## Logs mostrando a execussao
 
----
+### Corrida Com Semaforo
+
+![Corrida Com Semaforo](../prints/CorridaComSemaforo.png)
+
+### Corrida Sem Semaforo
+![Corrida Sem Semaforo](../prints/CorridaSemSemaforo.png)
+
 
 ##  Comparação final
 

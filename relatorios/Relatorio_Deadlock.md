@@ -37,17 +37,16 @@ Nenhuma delas libera o recurso que a outra precisa → **deadlock completo**.
 
 ---
 
-## Logs do deadlock (exemplo)
+## Logs do deadlock 
 
-```
-T1: tentando adquirir LOCK_A
-T1: adquiriu LOCK_A
-T2: tentando adquirir LOCK_B
-T2: adquiriu LOCK_B
-T1: tentando adquirir LOCK_B
-T2: tentando adquirir LOCK_A
--- trava aqui --
-```
+### Log do deadlock demo
+
+![Deadlock demo](../prints/DeadLockDemo.png)
+
+### Log do deadlock corrigido
+![Deadlock Corrigio](../prints/DeadLockCorrigida.png)
+
+
 
 As threads ficam presas esperando indefinidamente.
 

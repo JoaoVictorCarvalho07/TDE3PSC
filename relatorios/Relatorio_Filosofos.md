@@ -34,17 +34,13 @@ Se todos fizerem isso simultaneamente:
 - todos esperam o segundo garfo, que nunca será liberado
 - ninguém progride → **deadlock**
 
-### Espera circular formada:
+### Log da Espera circular formada:
 
-```
-F0 espera F1
-F1 espera F2
-F2 espera F3
-F3 espera F4
-F4 espera F0
-```
+### Log do jantar com impasse
+![Filosofos Com Impasse](../prints/FilosofosComImpasse.png)
 
----
+### Log do jantar ordenado sem espera circular
+![FilosofosOrdenados](../prints/FilosofosOrdenados.png)
 
 ## Relação com as Condições de Coffman
 
